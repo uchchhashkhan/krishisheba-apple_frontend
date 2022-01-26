@@ -1,0 +1,131 @@
+.App {
+  text-align: center;
+}
+.header {
+  width: 98.5%;
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+  margin: auto;
+  background-color: rgb(177, 62, 54);
+  padding: 10px;
+}
+.button {
+  text-align: center;
+}
+.motto {
+  text-align: center;
+  font-weight: bold;
+  color: rgb(19, 18, 18);
+  text-shadow: 2px 2px 4px #ffffff;
+  font-size: 100%;
+  text-decoration: underline overline;
+}
+.blue {
+  padding: 15%;
+}
+.main {
+  background-color: gray;
+}
+.icon {
+  text-align: center;
+  font-size: 500%;
+}
+.image {
+  top: 50%;
+  left: 30%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  background-color: rgb(163, 146, 146);
+  width: 300px;
+  height: 18%;
+  padding: 25px;
+  border: 2px solid rgb(5, 5, 5);
+  margin: 7;
+  opacity: 0.8;
+  border-radius: 20px;
+}
+.choose {
+  text-align: center;
+  font-size: 120%;
+}
+.label {
+  font-weight: bold;
+  font-size: x-large;
+  top: 50%;
+  left: 65%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  background-color: rgb(163, 146, 146);
+  width: 150px;
+  height: 18%;
+  padding: 25px;
+  border: 2px solid rgb(5, 5, 5);
+  margin: 7;
+  opacity: 0.9;
+  border-radius: 20px;
+}
+.confidence {
+  font-weight: bold;
+  font-size: x-large;
+  top: 50%;
+  left: 80%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  background-color: rgb(163, 146, 146);
+  width: 150px;
+  height: 18%;
+  padding: 25px;
+  border: 2px solid rgb(5, 5, 5);
+  margin: 7;
+  opacity: 0.9;
+  border-radius: 20px;
+}
+.clear {
+  font-size: large;
+  font-weight: bold;
+  top: 80%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  background-color: rgb(177, 62, 54);
+  width: 350px;
+  padding: 30px;
+  border: 2px solid rgb(5, 5, 5);
+  margin: 7;
+  opacity: 0.9;
+  border-radius: 20px;
+}
+.photo {
+  transform: translate(24%, 720%);
+  font-weight: bold;
+  font-size: large;
+  font-family: "Times New Roman", Times, serif;
+  background-color: rgb(177, 62, 54);
+  text-align: center;
+  transform: translate(119%, 400%);
+  width: 260px;
+  padding: 5px;
+  border: 2px solid rgb(5, 5, 5);
+  margin: 7;
+  opacity: 0.9;
+  border-radius: 10px;
+}
+.result {
+  transform: translate(71%, 650%);
+  font-weight: bold;
+  font-size: large;
+  font-family: "Times New Roman", Times, serif;
+  background-color: rgb(177, 62, 54);
+  text-align: center;
+  width: 200px;
+  transform: translate(470%, 300%);
+  padding: 5px;
+  border: 2px solid rgb(5, 5, 5);
+  margin: 7;
+  opacity: 0.9;
+  border-radius: 10px;
+}
